@@ -1,0 +1,45 @@
+  <div class="card">
+                <h3>📸 Event 1: [Event Name]</h3>
+                <p>[Add photos and video here]</p>
+                <p><strong>💭 Reflection:</strong></p>
+                <p>• What is the most important thing I learned from the event?</p>
+                <p>[hi answer mo renzilot is here !!!!!!!!!!!!!]</p>
+                <p>• How can I apply what I learned in real-life situations?</p>
+                <p>[babyshark doo doo doo]</p>
+                <p>• Did I actively participate in the event? How?</p>
+                <p>[tenenenene]</p>
+                <p>• If I were to teach this topic/subject to a classmate, how would I explain it?</p>
+                <p>[yum]</p>
+                <p>• Why is it important to have an event (per subject)?</p>
+                <p>[why kaya]</p>
+            </div>
+
+.second {
+    display: flex;
+    gap: 10px;
+
+
+.rupter{
+    background: linear-gradient(135deg, #fa742d 0, #de8d62 50%, #fa742d 100%);
+    padding: 2rem;
+    border-radius: 15px;
+    margin: 1.5rem 0;
+    border: 3px solid #fab189;
+    transition: all 0.3s ease;
+}
+
+.rupter{
+    width: 850px;
+}
+
+.rupter{
+    position: relative;
+    left: 30px;
+}
+
+.rupter:hover {
+    transform: translateY(20px);
+    box-shadow: 0 8px 25px rgba(0.15, 38, 38, 220);
+    border-color: #dc2626;
+}
+
